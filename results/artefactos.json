@@ -1,0 +1,23 @@
+{
+  "results": [
+    "/content/drive/MyDrive/DL_Proyecto_AricaJohnny_Clasificacion/results/artefactos.json",
+    "/content/drive/MyDrive/DL_Proyecto_AricaJohnny_Clasificacion/results/confusion_A_MobileNetV3Small.png",
+    "/content/drive/MyDrive/DL_Proyecto_AricaJohnny_Clasificacion/results/confusion_B_EfficientNetB0.png",
+    "/content/drive/MyDrive/DL_Proyecto_AricaJohnny_Clasificacion/results/confusion_C_ResNet50.png",
+    "/content/drive/MyDrive/DL_Proyecto_AricaJohnny_Clasificacion/results/inferencias_A.png",
+    "/content/drive/MyDrive/DL_Proyecto_AricaJohnny_Clasificacion/results/inferencias_B.png",
+    "/content/drive/MyDrive/DL_Proyecto_AricaJohnny_Clasificacion/results/inferencias_C.png",
+    "/content/drive/MyDrive/DL_Proyecto_AricaJohnny_Clasificacion/results/metric_accuracy_test.png",
+    "/content/drive/MyDrive/DL_Proyecto_AricaJohnny_Clasificacion/results/metric_f1_macro_test.png",
+    "/content/drive/MyDrive/DL_Proyecto_AricaJohnny_Clasificacion/results/metric_precision_macro_test.png",
+    "/content/drive/MyDrive/DL_Proyecto_AricaJohnny_Clasificacion/results/metric_recall_macro_test.png",
+    "/content/drive/MyDrive/DL_Proyecto_AricaJohnny_Clasificacion/results/metric_roc_auc_macro_test.png",
+    "/content/drive/MyDrive/DL_Proyecto_AricaJohnny_Clasificacion/results/metricas_test.csv",
+    "/content/drive/MyDrive/DL_Proyecto_AricaJohnny_Clasificacion/results/train_acc_A_MobileNetV3Small.png",
+    "/content/drive/MyDrive/DL_Proyecto_AricaJohnny_Clasificacion/results/train_acc_B_EfficientNetB0.png",
+    "/content/drive/MyDrive/DL_Proyecto_AricaJohnny_Clasificacion/results/train_acc_C_ResNet50.png",
+    "/content/drive/MyDrive/DL_Proyecto_AricaJohnny_Clasificacion/results/train_loss_A_MobileNetV3Small.png",
+    "/content/drive/MyDrive/DL_Proyecto_AricaJohnny_Clasificacion/results/train_loss_B_EfficientNetB0.png",
+    "/content/drive/MyDrive/DL_Proyecto_AricaJohnny_Clasificacion/results/train_loss_C_ResNet50.png"
+  ]
+}

@@ -1,0 +1,6 @@
+An example picture from the Garbage classification dataset depicting a cardboard
+An example picture from the Garbage classification dataset depicting a glass
+An example picture from the Garbage classification dataset depicting a metal
+An example picture from the Garbage classification dataset depicting a paper
+An example picture from the Garbage classification dataset depicting a plastic
+An example picture from the Garbage classification dataset depicting a trash
