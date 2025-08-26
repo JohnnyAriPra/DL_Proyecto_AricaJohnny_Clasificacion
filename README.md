@@ -94,8 +94,8 @@ El dataset utilizado en este proyecto proviene de **Roboflow** y contiene imáge
 ---
 
 ## Enlace al Proyecto:
-- [Enlace al código en Google Drive: https://drive.google.com/drive/folders/1TRKTMPqi1A2O4xtC7OfOulFfWDTr87np?usp=sharing 
-](#)
+- [Enlace al código en Google Drive](#)
+https://drive.google.com/drive/folders/1TRKTMPqi1A2O4xtC7OfOulFfWDTr87np?usp=sharing 
 ---
 
 Este `README.md` proporciona las instrucciones necesarias para que puedas ejecutar el proyecto de manera eficiente. Asegúrate de tener configurado el entorno adecuado en Google Colab y seguir los pasos descritos para entrenar y evaluar los modelos.
